@@ -4,9 +4,9 @@
 How to use ?
 
 Cloner le repo, se placer dans le bon dossier puis entrer la commande suivante dans le terminal
-'''
+```
 bundle install
-'''
+```
 
 Regarder le résultat
 
