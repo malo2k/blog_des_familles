@@ -1,24 +1,15 @@
-# README
+# Blog des familles
+## Exercice THP du 24 Octobre
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+How to use ?
 
-Things you may want to cover:
+Cloner le repo, se placer dans le bon dossier puis entrer la commande suivante dans le terminal
+'''
+bundle install
+'''
 
-* Ruby version
+Regarder le résultat
 
-* System dependencies
+(Bon j'ai eu des problèmes avec l'ajout d'articles, pas trouvé pourquoi et donc pas réussi à les lier entre eux)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Réalisé à Rennes par Malo
